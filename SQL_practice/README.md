@@ -6,7 +6,7 @@
 
 Схема базы данных
 
-`basic_sql_project_ERD.png`
+![Схема базы данных](img/basic_sql_project_ERD.png)
 
 
 ### `acquisition`
