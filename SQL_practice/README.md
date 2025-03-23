@@ -6,7 +6,7 @@
 
 Схема базы данных
 
-.................
+`basic_sql_project_ERD.png`
 
 
 ### `acquisition`
